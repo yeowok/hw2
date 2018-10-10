@@ -1,0 +1,15 @@
+package test_p7;
+import java.io.BufferedReader;
+public class test_p7 {
+
+	public static void main(String[] args)throw IOException {
+		// TODO Auto-generated method stub
+	
+		System.out.println("請輸入整數");
+		BufferedReader br=
+				new
+		
+
+	}
+
+}
